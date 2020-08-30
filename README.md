@@ -1,5 +1,5 @@
 
-## Visit the Blog If you want to know more about this app please visit the blog of the app.
+## Visit the Blog If you want to know more about this app.
 https://language.water.blog/2019/01/09/ios-project/
 
 # iOS-project
