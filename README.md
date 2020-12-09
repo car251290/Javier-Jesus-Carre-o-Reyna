@@ -31,7 +31,7 @@ Swift
 
 # Requirements
 * Xcode 
-* macbook
+* Macbook
 
 
 
